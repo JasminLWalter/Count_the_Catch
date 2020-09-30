@@ -22,6 +22,7 @@ public class StartStop : MonoBehaviour
     const string PlayerNamePrefKey = "SubjectID";
 	private bool subIDran = false;
 	private AudioSource _buttonSound;
+	//private string folderPath = @"D:\Unity\Data\CountTheCatch\";
 	private string folderPath = @"D:\Unity\Data\CountTheCatch\";
 	private DirectoryInfo folder;
     

@@ -15,7 +15,6 @@
     </explicitIncludes>
     <explicitExcludes>
       <Path>.idea</Path>
-      <Path>Count_the_Cath_UnityProject</Path>
       <Path>Library</Path>
       <Path>Logs</Path>
       <Path>Temp</Path>
