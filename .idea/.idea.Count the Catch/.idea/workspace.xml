@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7cf08b8-005a-416e-9a1d-5b34e48aab96" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Saving.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/QuestionAnswers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallColorSwitch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartStop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MoveGorilla.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RobotEnemyMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RobotEnemyManagement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Countdowns.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CatchingThrowing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GolemMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerControllerRB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GolemSpawningController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptQuestionCanvas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RobotSphere/Assets/Scripts/RobotFreeAnim.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestiScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GorillaSpawnDestroy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MoveGorilla.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GolemSpawningController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptQuestionCanvas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RobotEnemyManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyManagement2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CatchingThrowing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GolemMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerControllerRB.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Countdowns.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartStop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestionAnswers.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BallColorSwitch.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RobotEnemyMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Saving.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gHlsJ2Pi9VpeUeRPYkdY2a5siD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7cf08b8-005a-416e-9a1d-5b34e48aab96" name="Default Changelist" comment="" />
+      <created>1597779605861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597779605861</updated>
+      <workItem from="1597779618906" duration="2923000" />
+      <workItem from="1597883027270" duration="2167000" />
+      <workItem from="1598000840147" duration="21278000" />
+      <workItem from="1599920797644" duration="4756000" />
+      <workItem from="1599952242774" duration="5238000" />
+      <workItem from="1599957987514" duration="643000" />
+      <workItem from="1600087057055" duration="463000" />
+      <workItem from="1600087554853" duration="137000" />
+      <workItem from="1600087716459" duration="2556000" />
+      <workItem from="1600116382053" duration="11515000" />
+      <workItem from="1600254924716" duration="3879000" />
+      <workItem from="1600345446956" duration="2730000" />
+      <workItem from="1600349350287" duration="3549000" />
+      <workItem from="1600354589576" duration="10943000" />
+      <workItem from="1600426438982" duration="1028000" />
+      <workItem from="1600427504772" duration="4684000" />
+      <workItem from="1600614632034" duration="2833000" />
+      <workItem from="1600767045192" duration="889000" />
+      <workItem from="1600856433217" duration="1173000" />
+      <workItem from="1600857669703" duration="9277000" />
+      <workItem from="1600870334057" duration="8028000" />
+      <workItem from="1600942695542" duration="24456000" />
+      <workItem from="1601387580328" duration="3093000" />
+      <workItem from="1601396060781" duration="1473000" />
+      <workItem from="1601397908124" duration="33000" />
+      <workItem from="1601481817753" duration="10971000" />
+      <workItem from="1601494556904" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1600877975809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600877975809" />
+    <state x="537" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601393604697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="82" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1601393604697" />
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1" timestamp="1600865148645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1600865148645" />
+    <state x="424" y="10" width="687" height="804" key="find.popup" timestamp="1598005251629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="424" y="10" width="687" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1598005251629" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600986331598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600986331598" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600087391109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600087391109" />
+  </component>
+</project>
